@@ -1,4 +1,4 @@
-kel kel kel 123456789900886000000000000000000000000000000000000000
+testing testing
 slmgr /skms kms.digiboy.ir
 slmgr /ato
 kkkkkkk
